@@ -1,0 +1,15 @@
+    header {
+        background-color: #103f4f;
+        padding: 10px;
+    }
+    .app-header{
+        list-style-type: none;
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    .app-header a{
+        text-decoration: none;
+        color: #ffffff;
+        font-size: 20px;
+    }
